@@ -1,4 +1,5 @@
 # bank
+<img src='bank.png' width='100'>
 # Information
 <div style="background-color:lightgrey">
 The data is related with direct marketing campaigns of a Portuguese banking institution. 
