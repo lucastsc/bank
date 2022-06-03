@@ -1,0 +1,6 @@
+bank - Copia (2).ipynb
+bank.zip
+bank-additional.zip
+powerbi_bank.pbix
+powerbi_bank2.pbix
+/.ipynb_checkpoints
