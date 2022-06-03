@@ -1,5 +1,5 @@
 # bank
-<img src='bank.png' width='100'>
+<img src='img/bank.png' width='100'>
 # Information
 <div style="background-color:lightgrey">
 The data is related with direct marketing campaigns of a Portuguese banking institution. 
@@ -43,3 +43,7 @@ Input variables:
   <ol>
       <li><strong>y</strong> - has the client subscribed a term deposit? (binary: "yes","no")</li>
   </ol>
+
+  <div>Prediction sample:</div>
+  <img src='img/prediction example.png' width='500'>
+  
