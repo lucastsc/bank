@@ -1,11 +1,13 @@
 # bank
 <img src='img/bank.png' width='100'>
 # Information
-<div style="background-color:lightgrey">
+<div style="background-color:lightgrey;">
 The data is related with direct marketing campaigns of a Portuguese banking institution. 
 The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, 
 in order to access if the product (bank term deposit) would be (or not) subscribed.
 </div>
+<p></p>
+<div style='background-color:lightgreen;'>Goal: Given certain user data, we can predict if it would subscribe to the bank term deposit and create a graphical interface to ease prediction.</div>
 
 Input variables:
 ## bank client data:
